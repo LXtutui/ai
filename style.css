@@ -1,0 +1,19 @@
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status, #num_obj, #comecar
+{
+font-size: 18px;
+}
+body{
+    background-color: bisque;
+}
+canvas{
+    box-shadow: 5px 5px 10px gray;
+    border-radius: 20px;
+    margin-top: 50px;
+}
